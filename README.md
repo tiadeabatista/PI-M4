@@ -11,7 +11,7 @@ O objetivo do projeto foi desenvolver uma biblioteca de mídias contendo as segu
 * Ator
 * Músico
 * Biblioteca de mídia
-* Playst 
+* Playlist 
 
 #
 > As classes mídia, musica, filme, artista, ator e músico, deviam conter os métodos GET e SET. 
