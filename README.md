@@ -16,7 +16,7 @@ O objetivo do projeto foi desenvolver uma biblioteca de mídias contendo as segu
 #
 > As classes mídia, musica, filme, artista, ator e músico, deviam conter os métodos GET e SET. 
 #
-> As classes biblioteca de mídia e playlist, além dos métodos GET e SET, deviam ter métodos próprios como passar para a próxima musica, voltar música e método tocar playlist.
+> As classes biblioteca de mídia e playlist, além dos métodos GET e SET, deviam ter métodos próprios como passar para a próxima música, voltar música e método tocar playlist.
 
 #
 # Tecnologia usada;
